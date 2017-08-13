@@ -1,0 +1,10 @@
+20170813_142042_358392 - [POT  ] ITI - 172.17.0.2:22
+20170813_142042_358392 - [SSH  ] Incoming Connection from 41.130.166.181:59825 - Egypt
+20170813_142046_757880 - [SSH  ] Login Successful: root:P@$$w0rd
+20170813_142047_288049 - [TERM0] Opened Channel
+20170813_142051_997861 - [TERM0] Command Executed: clear
+20170813_142054_506454 - [TERM0] Command Executed: ls
+20170813_142116_568387 - [TERM0] Command Executed: wget "www.facebook.com"
+20170813_142125_937525 - [TERM0] Command Executed: exit
+20170813_142126_092057 - [TERM0] Closed Channel
+20170813_142126_106298 - [SSH  ] Lost Connection with 41.130.166.181

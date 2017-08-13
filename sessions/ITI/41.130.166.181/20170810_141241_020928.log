@@ -1,0 +1,31 @@
+20170810_141241_020928 - [POT  ] ITI - 172.17.0.2:22
+20170810_141241_020928 - [SSH  ] Incoming Connection from 41.130.166.181:3820 - Egypt
+20170810_141244_606195 - [SSH  ] Login Successful: asmaa:iti@123
+20170810_141245_269845 - [TERM0] Opened Channel
+20170810_142652_639656 - [TERM0] Command Executed: pwd
+20170810_142712_182363 - [TERM0] Command Executed: ls
+20170810_142744_098180 - [TERM0] Command Executed: vim ho	
+20170810_142747_119443 - [TERM0] Command Executed: [2;2R]11;rgb:0000/0000/0000[>1;4601;0c:q
+20170810_142827_588069 - [TERM0] Command Executed: /bin/bash
+20170810_142838_477775 - [TERM0] Command Executed: vim honoeyd.conf 
+20170810_142848_025301 - [TERM0] Command Executed: [2;2R]11;rgb:0000/0000/0000[>1;4601;0c:q
+20170810_143241_291241 - [TERM0] Command Executed: cat /etc/passsswd
+20170810_143306_204204 - [TERM0] Command Executed: whoami 
+20170810_143314_099333 - [TERM0] Command Executed: passwd root
+20170810_143337_176180 - [TERM0] Command Executed: cat /atc/shadow 
+20170810_143347_510746 - [TERM0] Command Executed: cat /etc/shadow 
+20170810_143405_641937 - [TERM0] Command Executed: cat /etc/grou
+20170810_143413_498408 - [TERM0] Command Executed: cat /etc/gshadow
+20170810_143424_261624 - [TERM0] Command Executed: ls -la /etpasc/swd
+20170810_143522_487627 - [TERM0] Command Executed: su 
+20170810_143527_044205 - [TERM0] Command Executed: iti@123
+20170810_143547_380290 - [TERM0] Command Executed: chmod 500 /etpasswd c/
+20170810_143551_049522 - [TERM0] Command Executed: exit
+20170810_143559_297846 - [TERM0] Command Executed: cat /etpasc/swd
+20170810_143621_697241 - [TERM0] Command Executed: chmod555 /etpasswd  c/
+20170810_143730_252220 - [TERM0] Command Executed: su 
+20170810_143733_454823 - [TERM0] Command Executed: iti@123
+20170810_143737_577739 - [TERM0] Command Executed: passwd 
+20170810_143744_464419 - [TERM0] Command Executed: M@ns0ura6
+20170810_143748_856003 - [TERM0] Command Executed: M@ns0ura6
+20170810_143814_413552 - [TERM0] Command Executed: ls

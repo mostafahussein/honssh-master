@@ -1,0 +1,8 @@
+20170810_100340_547223 - [POT  ] ITI - 172.17.0.3:22
+20170810_100340_547223 - [SSH  ] Incoming Connection from 41.130.166.181:51326 - Egypt
+20170810_100353_891922 - [SSH  ] Login Successful: root:P@$$w0rd
+20170810_100354_960046 - [TERM0] Opened Channel
+20170810_100421_508189 - [TERM0] Command Executed: history 
+20170810_100435_287835 - [TERM0] Command Executed: exit
+20170810_100436_899013 - [TERM0] Closed Channel
+20170810_100436_903380 - [SSH  ] Lost Connection with 41.130.166.181

@@ -1,0 +1,14 @@
+20170813_110245_025241 - [POT  ] ITI - 172.17.0.2:22
+20170813_110245_025241 - [SSH  ] Incoming Connection from 41.130.166.181:59117 - Egypt
+20170813_110254_179416 - [SSH  ] Login Successful: root:M@ns0ura03
+20170813_110255_189747 - [TERM0] Opened Channel
+20170813_110259_795087 - [TERM0] Command Executed: ls
+20170813_113427_810832 - [TERM0] Command Executed: ls
+20170813_113434_358406 - [TERM0] Command Executed: cat 
+20170813_113453_427465 - [TERM0] Command Executed: exit
+20170813_113609_858856 - [TERM0] Command Executed: exit
+20170813_113612_705895 - [TERM0] Command Executed: ^C
+20170813_113614_709350 - [TERM0] Command Executed: ^C
+20170813_113617_603924 - [TERM0] Command Executed: exit
+20170813_113617_958647 - [TERM0] Closed Channel
+20170813_113618_724266 - [SSH  ] Lost Connection with 41.130.166.181

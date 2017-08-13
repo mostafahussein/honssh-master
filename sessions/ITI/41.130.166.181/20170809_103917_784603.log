@@ -1,0 +1,8 @@
+20170809_103917_784603 - [POT  ] ITI - 172.17.0.2:22
+20170809_103917_784603 - [SSH  ] Incoming Connection from 41.130.166.181:54238 - Egypt
+20170809_103923_876076 - [SSH  ] Login Successful: root:M@ns0ura5
+20170809_103924_413358 - [TERM0] Opened Channel
+20170809_104031_565983 - [TERM0] Command Executed: whoami 
+20170809_104055_550756 - [TERM0] Command Executed: exit
+20170809_104055_882202 - [TERM0] Closed Channel
+20170809_104055_897337 - [SSH  ] Lost Connection with 41.130.166.181

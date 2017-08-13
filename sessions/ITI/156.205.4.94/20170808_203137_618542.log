@@ -1,0 +1,11 @@
+20170808_203137_618542 - [POT  ] ITI - 172.17.0.2:22
+20170808_203137_618542 - [SSH  ] Incoming Connection from 156.205.4.94:15084 - Egypt
+20170808_203148_850298 - [SSH  ] Login Successful: root:M@ns0ura5
+20170808_203150_346763 - [TERM0] Opened Channel
+20170808_203207_372171 - [TERM0] Command Executed: pwd
+20170808_203223_336841 - [TERM0] Command Executed: cat /etc/passwd
+20170808_203301_848382 - [TERM0] Command Executed: ls
+20170808_203317_752881 - [TERM0] Command Executed: cat /etc/shadow
+20170808_203324_120503 - [TERM0] Command Executed: exit
+20170808_203324_500686 - [TERM0] Closed Channel
+20170808_203324_514281 - [SSH  ] Lost Connection with 156.205.4.94

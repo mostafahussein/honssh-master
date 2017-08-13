@@ -1,0 +1,12 @@
+20170813_124955_383610 - [POT  ] ITI - 172.17.0.2:22
+20170813_124955_383610 - [SSH  ] Incoming Connection from 41.130.166.181:59425 - Egypt
+20170813_125009_769316 - [SSH  ] Login Successful: root:M@ns0ura03
+20170813_125010_419460 - [TERM0] Opened Channel
+20170813_125800_220920 - [TERM0] Command Executed: ls
+20170813_125815_043114 - [TERM0] Command Executed: ls
+20170813_125827_896816 - [TERM0] Command Executed: vim meme.txt
+20170813_125832_982865 - [TERM0] Command Executed: [2;2R]11;rgb:0000/0000/0000[>1;4205;0c:q
+20170813_125840_680114 - [TERM0] Command Executed: ls
+20170813_130624_768039 - [TERM0] Command Executed: exit
+20170813_130625_343046 - [TERM0] Closed Channel
+20170813_130625_360734 - [SSH  ] Lost Connection with 41.130.166.181

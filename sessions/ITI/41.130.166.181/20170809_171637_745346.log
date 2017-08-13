@@ -1,0 +1,31 @@
+20170809_171637_745346 - [POT  ] ITI - 172.17.0.3:22
+20170809_171637_745346 - [SSH  ] Incoming Connection from 41.130.166.181:10244 - Egypt
+20170809_171644_828586 - [SSH  ] Login Successful: root:iti@123
+20170809_171646_332457 - [TERM0] Opened Channel
+20170809_171706_537486 - [TERM0] Command Executed: pwd
+20170809_172029_770577 - [TERM0] Command Executed: cat /etc/passwd
+20170809_172105_286512 - [TERM0] Command Executed: ls
+20170809_172238_504720 - [TERM0] Command Executed: nmap 172.17.0.6m
+20170809_172311_319041 - [TERM0] Command Executed: nmap 172.17.0.11
+20170809_172321_773876 - [TERM0] Command Executed: ifconfig 
+20170809_172738_501945 - [TERM0] Command Executed: pwd
+20170809_173124_662477 - [TERM0] Command Executed: cd test
+20170809_173129_045699 - [TERM0] Command Executed: ls
+20170809_174202_068504 - [TERM0] Command Executed: piping 172.17.0.6
+20170809_174216_283692 - [TERM0] Command Executed: ping 172.17.0.6
+20170809_174226_342983 - [TERM0] Command Executed: ^C
+20170809_174232_375552 - [TERM0] Command Executed: ping 172.17.0.1
+20170809_174234_826111 - [TERM0] Command Executed: ^C
+20170809_174240_228642 - [TERM0] Command Executed: ping 172.17.0.6
+20170809_174244_698509 - [TERM0] Command Executed: ^C
+20170809_174304_080283 - [TERM0] Command Executed: ping 172.17.0.11
+20170809_174315_242736 - [TERM0] Command Executed: ^C
+20170809_174320_321044 - [TERM0] Command Executed: pi[ifconfig 
+20170809_174333_508646 - [TERM0] Command Executed: ping 172.17.0.1
+20170809_174335_496341 - [TERM0] Command Executed: ^C
+20170809_174339_421355 - [TERM0] Command Executed: ping 172.17.0.3
+20170809_174341_260392 - [TERM0] Command Executed: ^C
+20170809_174414_950410 - [TERM0] Command Executed: ping 172.17.0.6
+20170809_174420_772616 - [TERM0] Command Executed: ^C
+20170810_042745_471743 - [TERM0] Closed Channel
+20170810_042745_471349 - [SSH  ] Lost Connection with 41.130.166.181

@@ -1,0 +1,15 @@
+20170813_113708_175273 - [POT  ] ITI - 172.17.0.2:22
+20170813_113708_175273 - [SSH  ] Incoming Connection from 41.130.166.181:59287 - Egypt
+20170813_113720_382565 - [SSH  ] Login Successful: root:M@ns0ura03
+20170813_113720_922123 - [TERM0] Opened Channel
+20170813_113725_877398 - [TERM0] Command Executed: ls
+20170813_124704_152963 - [TERM0] Command Executed: ls
+20170813_124727_392106 - [TERM0] Command Executed: w 
+20170813_124733_545344 - [TERM0] Command Executed: w 
+20170813_124736_297096 - [TERM0] Command Executed: who 
+20170813_124748_720904 - [TERM0] Command Executed: cat /etpasswd c/
+20170813_124757_443046 - [TERM0] Command Executed: cat /etc/shadow 
+20170813_124803_111821 - [TERM0] Command Executed: clear 
+20170813_124923_715475 - [TERM0] Command Executed: exit
+20170813_124923_876394 - [TERM0] Closed Channel
+20170813_124923_888541 - [SSH  ] Lost Connection with 41.130.166.181

@@ -1,0 +1,8 @@
+20170813_132556_924394 - [POT  ] ITI - 172.17.0.2:22
+20170813_132556_924394 - [SSH  ] Incoming Connection from 41.130.166.181:59633 - Egypt
+20170813_132602_634673 - [SSH  ] Login Successful: root:P@$$w0rd
+20170813_132603_149396 - [TERM0] Opened Channel
+20170813_132732_118809 - [TERM0] Command Executed: ls
+20170813_132738_461443 - [TERM0] Command Executed: exit
+20170813_132738_827284 - [TERM0] Closed Channel
+20170813_132738_840130 - [SSH  ] Lost Connection with 41.130.166.181

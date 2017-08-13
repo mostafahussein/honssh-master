@@ -1,0 +1,8 @@
+20170808_165756_876319 - [POT  ] ITI - 172.17.0.2:22
+20170808_165756_876319 - [SSH  ] Incoming Connection from 41.130.166.181:14807 - Egypt
+20170808_165814_886574 - [SSH  ] Login Successful: root:M@ns0ura5
+20170808_165816_405759 - [TERM0] Opened Channel
+20170808_165913_112759 - [TERM0] Command Executed: cat /etc/passwd
+20170808_165939_552334 - [TERM0] Command Executed: pwd
+20170808_202622_576138 - [TERM0] Closed Channel
+20170808_202622_576000 - [SSH  ] Lost Connection with 41.130.166.181
